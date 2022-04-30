@@ -1,0 +1,21 @@
+
+a.active{
+    color: red;
+}
+a{
+    text-decoration: none !important;
+}
+a{
+    font-size: 25px;
+}
+h1.status-code{
+    color: rgba(255, 0, 0, 0.733);
+}
+.box{
+    position: relative;
+    top: 200px;
+    left: calc(50% - 25px);
+}
+h2.text{
+    margin-left: -90px;
+}
